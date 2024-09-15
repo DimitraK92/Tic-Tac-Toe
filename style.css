@@ -17,7 +17,7 @@ div#game {
     gap: 1rem;
     grid-template-rows: 3rem auto 6rem 3rem;
 }
-#title{
+div#game-title{
     font-size: 3rem;
     text-align: center;
 }
